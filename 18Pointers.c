@@ -1,4 +1,3 @@
-//Implement strcpy safely (bounded copy) and discuss buffer overflow risks.
 #include<stdio.h>
 
 int main(){
