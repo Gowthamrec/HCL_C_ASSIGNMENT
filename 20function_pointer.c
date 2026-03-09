@@ -1,4 +1,3 @@
-//Create and use a function pointer to select different arithmetic operations at runtime.
 #include<stdio.h>
 
 int add(int a, int b) {

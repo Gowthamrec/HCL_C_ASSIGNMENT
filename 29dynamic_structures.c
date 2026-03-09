@@ -24,4 +24,4 @@ int main(){
         printf("ID: %d, Name: %s, Price: %.2f\n", items[i].id, items[i].name, items[i].price);
     }
     free(items);
-}
+}   
